@@ -1,0 +1,13 @@
+Columns are:
+0th: unique index
+fpX: x position of fiber in focal plane (mm)
+fpY: y position of fiber in focal plane (mm)
+fvcX: x position of centroid in CCD (pixels)
+fvcY: y position of centroid in CCD (pixels)
+rFP: radial position of fiber in focal plane (mm)
+rFVC: radial position of centroid in CCD (pixels)
+thetaFP: angular position of fiber in focal plane (degrees)
+thetaFVC: angular position of centroid in CCD (degrees)
+fiducial: whether or not this is a fiducial location (boolean)
+
+The maximum radial distance in the focal plane we can reach with a science fiber is about 313.6 mm
